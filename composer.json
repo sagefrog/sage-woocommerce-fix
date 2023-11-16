@@ -1,9 +1,9 @@
 {
-  "name": "generoi/sage-woocommerce",
+  "name": "sagefrog/sage-woocommerce-fix",
   "type": "library",
   "license": "MIT",
   "description": "",
-  "homepage": "https://github.com/generoi/sage-woocommerce",
+  "homepage": "https://github.com/sagefrog/sage-woocommerce-fix",
   "authors": [
     {
       "name": "Oskar Schöldström",
@@ -14,9 +14,6 @@
     "psr-4": {
       "Genero\\Sage\\WooCommerce\\": "src/"
     }
-  },
-  "require": {
-    "roots/acorn": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "~3.0"
